@@ -1,10 +1,11 @@
 package sample;
 public class HotelLib
 {
- public função (Gestor)
+ public função (Gestor){
     String "Nome";
     int NIF;
     int Número de Funcionário;
     char Password;
     char Morada;
+    }
 }
