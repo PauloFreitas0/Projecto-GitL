@@ -1,0 +1,9 @@
+package sample;
+public class HotelLib { ;}
+
+public class Factura{
+    int Montante;
+    int Número
+    de Reserva;
+    int Data de emissão;
+}
