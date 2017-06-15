@@ -1,13 +1,10 @@
 package sample;
-public class HotelLib { ;}
-
-public class Reserva {
-    int Número
-    de Reserva;
-    int Data
-    de ínico;
-    int Número
-    de Funcionário;
-    int Data
-    de Fim;
+public class HotelLib
+{
+ public função (Reserva){
+    int Número de Reserva;
+    int Data de ínico;
+    int Número de Funcionário;
+    int Datade Fim;
+    }
 }
