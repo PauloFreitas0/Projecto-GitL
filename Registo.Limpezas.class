@@ -1,5 +1,6 @@
 package sample;
-public class HotelLib { ;}
-
-public class Registos.Limpezas{
+public class HotelLib
+{
+ public função (Registos.Limpezas){
+ }
 }
