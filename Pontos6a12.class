@@ -1,11 +1,11 @@
 package sample;
-public class HotelLib { ;}
-
-public class Func.Limpeza{
+public class HotelLib
+{
+ public função (Func.Limpeza){
     String Nome;
     int NIF;
     int Número de Funcionário;
     char Password;
     char Morada;
-
+    }
 }
