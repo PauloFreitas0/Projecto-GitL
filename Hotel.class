@@ -2,4 +2,5 @@ package sample;
 public class HotelLib
 {
  public função Hotel{
+ }
 }
