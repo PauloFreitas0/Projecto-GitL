@@ -1,10 +1,9 @@
 package sample;
-public class HotelLib { ;}
-
-public class Funcionário{
+public class HotelLib
+{
+ public função (Funcionário)
     String Nome;
     int NIF;
     int Número de Cliente;
     char Morada;
-
 }
