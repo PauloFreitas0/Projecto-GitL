@@ -1,0 +1,7 @@
+- Para efectuar as reservas é necessário(data de entrada e saída do cliente, número de quartos a reservar, nome e NIF do cliente);
+- O sistema deve identificar quais os quartos disponíveis de acordo com as condições do cliente;
+- Durante a alteração de uma reserva, o funcionário pode alterar(número de noites da estadia, número de quartos, quais os quartos reservados nessa reserva, nome e NIF do cliente);
+- Para criar utilizadores, o gestor deve fornecer(dados do utilizador, categoria do utilizador, password do utilizador);
+- Para registar as limpezas realizadas, o funcionário de limpeza deve fornecer(data da limpeza, hora de inicio e do fim da limpeza, identificação do quarto que foi limpo);
+- O gestor pode alterar(quartos disponíveis no sistema, características dos quartos[no caso de ser para duas pessoas deve indicar se tem uma ou duas camas], adicionar novos quartos no sistema, remover quartos);
+- Permitir a importação de um ficheiro com a informação de todos os quartos[apenas o gestor deve efectuar esta operação].

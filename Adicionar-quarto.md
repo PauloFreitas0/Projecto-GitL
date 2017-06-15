@@ -1,0 +1,1 @@
+Para criar um quarto, o gestor deve indicar se o quarto é de uma ou duas pessoas. Caso seja de duas pessoas, deve especificar se tem uma ou duas camas.
