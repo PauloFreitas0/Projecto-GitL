@@ -1,0 +1,11 @@
+package sample;
+public class HotelLib { ;}
+
+public class Gestor{
+    String "Nome";
+    int NIF;
+    int Número de Funcionário;
+    char Password;
+    char Morada;
+
+}
