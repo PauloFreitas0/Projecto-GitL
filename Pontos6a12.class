@@ -2,7 +2,7 @@ package sample;
 public class HotelLib { ;}
 
 public class Func.Limpeza{
-    String "Nome";
+    String Nome;
     int NIF;
     int Número de Funcionário;
     char Password;
