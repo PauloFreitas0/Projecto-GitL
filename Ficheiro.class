@@ -1,5 +1,6 @@
 package sample;
-public class HotelLib { ;}
-
-public class Ficheiro{
+public class HotelLib
+{
+ public funçao (Ficheiro){
+ }
 }

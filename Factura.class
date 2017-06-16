@@ -1,9 +1,10 @@
 package sample;
-public class HotelLib { ;}
-
-public class Factura{
+public class HotelLib
+{
+ public função (Factura){
     int Montante;
     int Número
     de Reserva;
     int Data de emissão;
+    }
 }

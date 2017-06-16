@@ -1,9 +1,10 @@
 package sample;
-public class HotelLib { ;}
-
-public class Quartos{
+public class HotelLib
+{
+ public função (Quartos){
     String Disponibilidade;
     int Número de camas;
     int Número de quarto;
     String Tipo de Quarto;
+    }
 }
